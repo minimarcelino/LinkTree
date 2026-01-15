@@ -8,4 +8,4 @@ Este é um projeto simples inspirado no Linktree, criado para divulgar o **site,
 
 ## 📸 Sobre o Projeto
 
-Esta é uma **página de links tipo “Link in Bio”** (sem backend), feita com arquivos HTML, CSS e JavaScript. Ela redireciona visitantes para seus principais canais e informações de contato, tudo de forma simples e responsiva. :contentReference[oaicite:1]{index=1}
+Esta é uma **página de links tipo “Link in Bio”**, feita com arquivos HTML, CSS e JavaScript. Ela redireciona visitantes para seus principais canais e informações de contato, tudo de forma simples e responsiva.
